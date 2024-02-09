@@ -1,0 +1,239 @@
+body{background-color: black; width: 100%;}
+nav{background-color: black; align-items: center; display: flex;}
+
+.logo_amg{padding-left: 50px;}
+.div1{padding-top: 7px;}
+.nav_p{color: #BBBBBB; font-size: 14px; padding-left: 400px;}
+.nav_search{display: flex; align-items: center; padding-left: 20px;}
+.nav_search_i{background-color: #262626; border: none; height: 48px; width: 240px; padding-left: 10px; border-top-left-radius: 3px; border-bottom-left-radius: 3px; outline: none;}
+.nav_search_icon{color: white; background-color: #262626; padding: 16px; border-top-right-radius: 3px; border-bottom-right-radius: 3px;}
+.mli{padding-left: 20px; display: flex;}
+.li{color: white; padding: 15px;}
+.li:hover{background-color: #262626; border: none; border-radius: 2px;}
+.li2{color: white; padding: 15px;}
+.li2:hover{background-color: #262626; border: none; border-radius: 2px;}
+.panel{color: #BBBBBB; padding: 20px; font-size: 18px;}
+.panop{padding-left: 120px;}
+.panops{padding-left: 45px;}
+.panops:hover{color: white;}
+
+.hero-image{
+    background-image: url(ECLASS-LWB.avif);
+    background-size: cover;
+}
+.hmi{
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+}
+
+.st-sms {
+    color: #000000; 
+    padding-top: 100px; 
+    padding-left: 100px;
+    font-size: 30px;
+}
+
+.nd-sms{
+    color: #333333; 
+    padding-left: 100px;
+    font-size: 22px;
+}
+
+.btn{
+    margin-top: 80px; 
+    margin-left: 100px; 
+    background-color: transparent; 
+    height: 47.6px; 
+    width: 144px; 
+    display: inline-block; 
+    text-align: center; 
+    border: 1px solid; 
+    border-radius: 2px; 
+    margin-bottom: 200px;  
+}
+
+.btn2{margin-top: 80px; 
+    margin-left: 100px; 
+    background-color: #0078D6; 
+    height: 47.6px; 
+    width: 144px; 
+    display: inline-block; 
+    text-align: center; 
+    border: none; 
+    border-radius: 2px; 
+    margin-bottom: 200px;  
+}
+
+.btn a {
+    color: #262626;
+    text-decoration: none;
+}
+
+.btn2 a{
+    color: #FFFFFF;
+    text-decoration: none;
+} 
+
+.spec {
+    margin-top: 80px;
+}
+
+.sec1{
+    background-color: white; 
+    width: 100%; 
+    padding-top: 25px; 
+    padding-bottom: 100px; 
+    display: flex; 
+    justify-content: space-around;
+}
+
+.sec1 h1{
+    font-size: 30px;
+}
+
+.ex-btn{
+    padding:10px;
+    border: 1px solid #333333;
+    border-radius: 2px;
+}
+
+.ex-btn > a{
+    color: #000000;
+    text-decoration: none;
+}
+
+.Equ{
+    background-color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.Equ :nth-child(1){
+    color: #262626;
+    padding-left: 100px;
+}
+
+.Equ :nth-child(3){
+    color: #767676;
+    font-size: 18px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+}
+
+.Equ h1{
+    color: #333333;
+    font-size: 46px;
+    padding-left: 100px;
+}
+
+.Equ img{
+    margin-left:150px;
+    margin-top: 80px;
+    border: none;
+    border-radius:2px ;
+}
+
+.last-form{
+    background-color: white;
+    height: 500px;
+    padding-top: 50px;
+    padding-left: 100px;
+}
+
+.f{
+    background-color: white;
+    padding-top: 2px;
+    padding-left: 200px;
+}
+
+.f input{
+    background-color: #FAF9F6;
+    border: 1px solid grey;
+    border-radius: 2px;
+    outline: none;
+
+}
+
+.name input{
+    padding: 18px;
+    width:40%;
+    margin-top: 50px;
+}
+
+.emailandnum input{
+    padding: 18px;
+    width: 87%;
+    margin-top: 40px;
+}
+
+.emailandnum select{
+    padding: 20px;
+    width: 89.9%;
+    margin-top: 50px;
+    border: 1px solid grey;
+    border-radius: 2px;
+    outline: none;
+    background-color: #FAF9F6;
+}
+
+.f input:hover{
+    background-color: white;
+}
+
+.f select:hover{
+    background-color: white;
+}
+
+.ld{
+    display: flex;
+    margin-top: 200px;
+    padding-bottom: 50px;
+}
+
+.fm{
+    text-align: center; 
+    padding-top: 50px;
+}
+.main-container{
+    display: flex;
+}
+.container{
+    width: 80%; 
+    height: 80%; 
+    padding-top: 100px;
+    padding-left: 20px; 
+    padding-right: 20px;
+}
+.container h3{
+    color: white; 
+    padding-left:43px; 
+    padding-bottom: 20px; 
+}
+.container li{
+    list-style: none; 
+    margin-bottom: 20px; 
+    color: #BBBBBB; 
+    font-size: 16px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ 
+.foot1{
+    padding-left: 70px;
+    color: #BBBBBB;
+    display: flex;
+    font-size: 18px;
+}
+
+.foot1 a{
+    color: white;
+    font-size: 20px;
+    padding-left: 20px;
+    margin-top: 20px;
+}
+
+
+.foot2{
+    color: #BBBBBB;
+    padding-left: 70px;
+    font-size: 18px;
+    margin-top: 20px;
+}

@@ -1,0 +1,19 @@
+body{background-color: black;}
+.nav-bar{background-color: black; padding: 15px;  display: flex; align-content: space-evenly;}
+#uni{font-size: 100px; text-align: center; color: whitesmoke; padding: 20px;}
+.p1{color: whitesmoke; padding-left: 1000px; text-decoration: none; padding-top: 18px;}
+.p1:hover{color: red;}
+.p2{color: whitesmoke; padding-left: 90px; text-decoration: none; padding-top: 18px;}
+.p2:hover{color: red;}
+.p3{color: whitesmoke; text-align: center; padding: 20px; padding-left: 200px; padding-right: 200px ; padding-top: 100px;}
+.main-body{background-color: black;}
+sup{font-size: 40px;}
+.engine{display: flex; padding-left: 370px;}
+.spec-img{color: whitesmoke; padding-left: 10px; padding-right: 10px;}
+.body-body{background-color: #748E63;}
+form{padding: 100px;}
+.form-1{background-color: #99B080; width: 500px; padding: 30px;}
+.foot{background-color: black; color: whitesmoke; padding: 50px; padding-bottom: 20px;}
+input{border: none; border-radius: 5px}
+select{border: none; border-radius: 5px;}
+textarea{border: none; border-radius: 5px;}
